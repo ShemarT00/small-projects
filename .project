@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>CaesarCipher2</name>
+=======
+	<name>Score Ranker</name>
+>>>>>>> 6ba3764... Score Ranker project commit
 	<comment></comment>
 	<projects>
 	</projects>
